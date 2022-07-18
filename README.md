@@ -1,6 +1,6 @@
 # README
 
-<p align="center"> Esse projeto é um bot para Telegram onde através dele é possível receber promoções de produtos de lojas conhecidas e confiáveis</p>
+<p align="center">Esse projeto é um bot para Telegram, desenvolvido em Python, onde através dele é possível receber promoções de produtos de lojas conhecidas e confiáveis</p>
 
 <p align="center">
   <a href="#sobre">Sobre</a>
@@ -15,8 +15,8 @@
 
 <br>
 
-#Sobre
-kajsdkjaks
+# Sobre
+<p align="center">Esse projeto é um bot para Telegram, desenvolvido em Python, onde através dele é possível receber promoções de produtos de lojas conhecidas e confiáveis</p>
 
 ### FEATURES
 
