@@ -41,15 +41,18 @@ Shrtcode
 
 Python
 BeautifulSoup4
-Requets
+Requet
+
+
+### Experimente
+
+[Clique aqui para experimentar](https://t.me/SoPromo_bot).
 
 
 ### Autor
 
-<p> Desenvolvido por <b>Pedro Paulo</b><br>
-  @pedropaulodfr | pedropaulodfr@outlook.com
-
-
+<p align="center"> Desenvolvido por <b>Pedro Paulo</b><br>
+  <a href="https://www.instagram.com/pedropaulodfr/" >@pedropaulodfr</a> | <a href="mailto:pedropaulodfr@outlook.com ">pedropaulodfr@outlook.com </a></p>
 
 
 <h1 align="center">
