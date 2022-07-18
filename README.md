@@ -7,6 +7,7 @@
   <a href="#funções">Funções |</a>
   <a href="#tecnologias">Tecnologias |</a>
   <a href="#pré-requisitos">Pré Requisitos |</a>
+  <a href="#experimente">Experimente |</a>
   <a href="#autor">Autor</a>
 </p>
 
