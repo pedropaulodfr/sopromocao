@@ -15,6 +15,9 @@
 
 <br>
 
+#Sobre
+kajsdkjaks
+
 ### FEATURES
 
 - [x] Minerar promoções
