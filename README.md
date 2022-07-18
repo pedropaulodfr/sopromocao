@@ -3,10 +3,10 @@
 <p align="center">Esse projeto é um bot para Telegram, desenvolvido em Python, onde através dele é possível receber promoções de produtos de lojas conhecidas e confiáveis</p>
 
 <p align="center">
-  <a href="#sobre">Sobre</a>
-  <a href="#funções">Funções</a>
-  <a href="#tecnologias">Tecnologias</a>
-  <a href="#pré-requisitos">Pré Requisitos</a>
+  <a href="#sobre">Sobre |</a>
+  <a href="#funções">Funções |</a>
+  <a href="#tecnologias">Tecnologias |</a>
+  <a href="#pré-requisitos">Pré Requisitos |</a>
   <a href="#autor">Autor</a>
 </p>
 
@@ -56,5 +56,5 @@ Requet
 
 
 <h1 align="center">
-  <img alt="Readme" src="https://raw.githubusercontent.com/pedropaulodfr/sopromocao/main/image/avatar5065125335-0.jpg"/>
+  <img alt="Readme" src="https://raw.githubusercontent.com/pedropaulodfr/sopromocao/main/image/avatar5065125335-0.jpg" width="320" height="320" />
 </h1>
