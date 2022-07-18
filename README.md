@@ -31,18 +31,18 @@
 
 ### Tecnologias
 
-Python
-Beautiful Soup
-Requests
-Telegram APIs
+Python,
+Beautiful Soup,
+Requests,
+Telegram APIs,
 Shrtcode
 
 
 ### Pré-requisitos
 
-Python
-BeautifulSoup4
-Requet
+Python,
+BeautifulSoup4,
+Requests
 
 
 ### Experimente
