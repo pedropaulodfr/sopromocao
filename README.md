@@ -31,17 +31,17 @@
 
 ### Tecnologias
 
-Python,
-Beautiful Soup,
-Requests,
-Telegram APIs,
+Python <br>
+Beautiful Soup <br>
+Requests <br>
+Telegram APIs <br>
 Shrtcode
 
 
 ### Pré-requisitos
 
-Python,
-BeautifulSoup4,
+Python <br>
+BeautifulSoup4 <br>
 Requests
 
 
